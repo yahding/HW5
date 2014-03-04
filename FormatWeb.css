@@ -1,0 +1,35 @@
+﻿body {color: black;
+      background: #194719; 
+      font-family: Gill Sans, sans-serif,Adobe Garamond Pro Bold,; 
+      font-size: 12pt;
+}
+#form1 { background-color:#FFE0E0;
+         width:1000px;
+         margin:100px;
+         padding-bottom:7px;padding-left:7px;padding-right:7px;padding-top:7px;
+         border-left: solid 10px black; 
+         border-right: solid 10px black;
+         border-top: solid 10px black; 
+         border-bottom: solid 10px black; 
+}
+
+#header { background:#728C00; padding:5px 10px;  }
+
+h1 {
+    font-weight:bold; text-align:center; font-size:30px; text-decoration: underline; font-family:Adobe Garamond Pro Bold;
+}
+h3 {
+    text-align:center;
+    font-family: Adobe Garamond Pro Bold;
+}
+p {
+    text-align:center;
+}
+#loanGridView {width :auto;
+              margin-left:250px;margin-right:250px;
+              padding-bottom:7px;padding-left:7px;padding-right:7px;padding-top:7px;
+              text-align:center;
+              border:solid 1px;
+              border-collapse: collapse;
+}
+
